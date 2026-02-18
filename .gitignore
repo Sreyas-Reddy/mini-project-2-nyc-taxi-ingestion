@@ -1,0 +1,10 @@
+# data files
+data/source/
+data/selected/*.parquet
+
+# secrets
+**/*sas*
+**/*token*
+
+# mac
+.DS_Store
