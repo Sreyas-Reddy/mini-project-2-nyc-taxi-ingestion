@@ -15,6 +15,8 @@ This project demonstrates real production patterns:
 ## Architecture
 Local Parquet → Azure ADLS Gen2 (`nyc-taxi-data/raw`) → Snowflake External Stage → RAW (VARIANT + metadata) → STAGING (typed view) → DQ (runs/exceptions/scorecards)
 
+![Architecture Diagram](docs/architecture_dia.png)
+
 ---
 
 ## Tech Stack
