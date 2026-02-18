@@ -8,3 +8,4 @@ data/selected/*.parquet
 
 # mac
 .DS_Store
+.DS_Store
