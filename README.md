@@ -45,7 +45,7 @@ DQ Rules Implemented:
 - Rule 1 (Pickup before dropoff): **56 failures**, **99.9981% pass rate**
 - Rule 2 (Non-negative amounts): **37,568 failures**, **98.7328% pass rate**
 
-> Note: Negative amounts can represent real-world refunds/adjustments — the framework surfaces these for investigation.
+> Note: Negative amounts can represent real-world refunds/adjustments — the framework surfaces these for investigation..
 
 ---
 
